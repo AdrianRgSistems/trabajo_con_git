@@ -29,7 +29,7 @@ Partial Class Menu
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(12, 23)
+        Me.Button1.Location = New System.Drawing.Point(25, 23)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(214, 65)
         Me.Button1.TabIndex = 0
@@ -38,7 +38,7 @@ Partial Class Menu
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(257, 23)
+        Me.Button2.Location = New System.Drawing.Point(288, 23)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(214, 65)
         Me.Button2.TabIndex = 1
@@ -47,7 +47,7 @@ Partial Class Menu
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(493, 23)
+        Me.Button3.Location = New System.Drawing.Point(530, 23)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(214, 65)
         Me.Button3.TabIndex = 2
