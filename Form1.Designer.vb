@@ -29,11 +29,11 @@ Partial Class Menu
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(12, 21)
+        Me.Button1.Location = New System.Drawing.Point(274, 92)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(214, 65)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Button1"
+        Me.Button1.Text = "este no"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
@@ -42,16 +42,16 @@ Partial Class Menu
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(214, 65)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Button2"
+        Me.Button2.Text = "este si"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(505, 21)
+        Me.Button3.Location = New System.Drawing.Point(274, 163)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(214, 65)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Button3"
+        Me.Button3.Text = "este tambien"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Menu
