@@ -1,6 +1,6 @@
 ﻿Public Class Menu
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MsgBox("camnbios en el proyecto")
+        MsgBox("sin cambios en el proyecto")
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
